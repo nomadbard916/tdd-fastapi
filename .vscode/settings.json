@@ -1,4 +1,7 @@
 {
+    "python.autoComplete.extraPaths": [
+        ".project/env"
+    ],
     "python.analysis.extraPaths": [
         "./project/app/models",
         "./project",
